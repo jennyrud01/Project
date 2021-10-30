@@ -8,5 +8,5 @@ recent_files = []
 
 [main]
 version = 0.2.0
-recent_files = ['Tensorflow Dataset.py', 'Base Model.py', 'Base_Model version 1.1.py', 'Object_Detection_Base.py', 'ssd_mobilenet_v2_320x320_coco17_tpu-8\\pipeline.config', 'SSD---Object-Detection-for-SuperMarket\\training\\variables\\pipeline_test.config', '..\\anaconda3\\lib\\pathlib.py']
+recent_files = ['Base Model.py', 'Object_Detection_Base.py', 'Inception V3.py']
 
