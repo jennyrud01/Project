@@ -1,0 +1,14 @@
+Edge TPU Compiler version 16.0.384591198
+Input: Inception3model_quant.tflite
+Output: Inception3model_quant_edgetpu.tflite
+
+Operator                       Count      Status
+
+CONV_2D                        94         Mapped to Edge TPU
+MEAN                           1          Mapped to Edge TPU
+QUANTIZE                       2          Mapped to Edge TPU
+AVERAGE_POOL_2D                9          Mapped to Edge TPU
+FULLY_CONNECTED                3          Mapped to Edge TPU
+CONCATENATION                  15         Mapped to Edge TPU
+MAX_POOL_2D                    4          Mapped to Edge TPU
+SOFTMAX                        1          Mapped to Edge TPU
